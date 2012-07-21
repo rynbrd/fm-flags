@@ -7,10 +7,6 @@ sys-devel/gcc -gtk
 # Device Discovery
 sys-fs/udev gudev hwdb
 
-# Networking
-net-misc/networkmanager -bluetooth -kernel_linux
-net-wireless/wpa_supplicant -kernel_linux
-
 # Package Management
 app-portage/layman git
 
