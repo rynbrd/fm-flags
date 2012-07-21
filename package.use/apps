@@ -34,9 +34,3 @@ sys-libs/zlib minizip
 
 # XSane
 media-gfx/xsane gimp ocr
-
-# OpenShot
-media-sound/sox ffmpeg
-media-libs/mlt python frei0r ffmpeg melt
-media-libs/libsdl joystick
-
