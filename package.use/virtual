@@ -1,5 +1,0 @@
-# Virt-Manager
-app-emulation/virt-manager spice
-x11-libs/vte python
-net-libs/gtk-vnc python
-net-misc/spice-gtk python -gtk3
