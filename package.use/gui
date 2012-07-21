@@ -1,0 +1,18 @@
+# Xorg
+dev-libs/libxml2 python
+x11-libs/libdrm video_cards_intel
+
+# Gnome
+gnome-base/gnome-extra-apps -tracker
+x11-libs/gdk-pixbuf jpeg
+app-text/poppler cairo
+dev-libs/folks socialweb
+app-misc/geoclue hostip manual
+gnome-base/gvfs archive fuse gdu samba
+net-wireless/bluez gstreamer
+app-text/evince tiff
+gnome-base/nautilus exif
+net-libs/libsocialweb vala
+app-mobilephone/obex-data-server usb
+media-libs/libcanberra alsa
+media-plugins/gst-plugins-meta aac ffmpeg flac http lame libvisual mp3 mpeg ogg taglib theora v4l vorbis

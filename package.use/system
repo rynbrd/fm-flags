@@ -1,0 +1,21 @@
+# Bootloader
+sys-boot/grub device-mapper truetype
+
+# Compilers
+sys-devel/gcc -gtk
+
+# Device Discovery
+sys-fs/udev gudev hwdb
+
+# Networking
+net-misc/networkmanager -bluetooth -kernel_linux
+net-wireless/wpa_supplicant -kernel_linux
+
+# Package Management
+app-portage/layman git
+
+# Power Management
+sys-power/cpufreqd acpi lm_sensors pmu
+
+# Virtualization
+app-emulation/libvirt -policykit

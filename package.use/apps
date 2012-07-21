@@ -1,0 +1,42 @@
+# Empathy
+dev-libs/folks eds
+net-im/telepathy-connection-managers irc jabber sip
+net-im/empathy eds gnome-online-accounts spell
+
+# Shotwell
+media-libs/libgphoto2 exif
+
+# Unison
+net-misc/unison threads
+dev-ml/lablgtk -gnome
+
+# Virtualization
+app-emulation/libvirt lvm pcap python qemu virt-network -lxc
+app-emulation/qemu-kvm opengl python spice
+dev-games/cegui opengl
+app-misc/hivex perl python
+
+# Banshee
+net-libs/webkit-gtk spell
+media-sound/banshee ipod -cdda
+media-libs/libgpod mono
+
+# GIMP
+media-gfx/gimp exif jpeg pdf png postscript python smp svg tiff webkit wmf xpm
+
+# Inkscape
+media-gfx/inkscape dia postscript spell wmf
+media-libs/lcms python
+
+# VLC
+media-video/vlc qt4
+sys-libs/zlib minizip
+
+# XSane
+media-gfx/xsane gimp ocr
+
+# OpenShot
+media-sound/sox ffmpeg
+media-libs/mlt python frei0r ffmpeg melt
+media-libs/libsdl joystick
+
