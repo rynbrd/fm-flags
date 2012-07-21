@@ -32,7 +32,7 @@ media-libs/lcms python
 media-video/vlc qt4
 sys-libs/zlib minizip
 virtual/ffmpeg sdl
-media-video/ffmpeg sdl
+media-video/ffmpeg mp3 sdl threads truetype x264
 
 # XSane
 media-gfx/xsane gimp ocr
