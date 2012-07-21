@@ -8,7 +8,7 @@ x11-libs/gdk-pixbuf jpeg
 app-text/poppler cairo
 dev-libs/folks socialweb
 app-misc/geoclue hostip manual
-gnome-base/gvfs archive fuse gdu samba
+gnome-base/gvfs archive fuse gdu gphoto2 samba
 net-wireless/bluez gstreamer
 app-text/evince tiff
 gnome-base/nautilus exif
