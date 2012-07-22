@@ -46,6 +46,7 @@ net-misc/spice-gtk python -gtk3
 # OpenShot (Sabayon)
 media-sound/sox encode ffmpeg
 media-libs/mlt xml ffmpeg python melt frei0r sdl
+media-libs/libsdl opengl
 
 # Glade
 dev-util/glade python
