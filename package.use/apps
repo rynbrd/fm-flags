@@ -31,7 +31,7 @@ media-libs/lcms python
 # VLC
 media-video/vlc qt4
 sys-libs/zlib minizip
-virtual/ffmpeg sdl
+virtual/ffmpeg sdl threads truetype x264
 media-video/ffmpeg mp3 sdl threads truetype x264
 
 # XSane
