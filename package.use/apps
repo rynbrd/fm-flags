@@ -50,3 +50,6 @@ media-libs/libsdl opengl
 
 # Glade
 dev-util/glade python
+
+# X-Chat
+net-irc/xchat hires-icons spell
