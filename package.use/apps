@@ -53,3 +53,6 @@ dev-util/glade python
 
 # X-Chat
 net-irc/xchat hires-icons spell
+
+# Libre Office
+app-office/libreoffice gstreamer opengl pdfimport
