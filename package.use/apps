@@ -56,3 +56,6 @@ net-irc/xchat hires-icons spell
 
 # Libre Office
 app-office/libreoffice gstreamer opengl pdfimport
+
+# Ninja-IDE
+dev-python/PyQt4 webkit
