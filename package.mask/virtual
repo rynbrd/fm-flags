@@ -1,0 +1,7 @@
+# Stabilize Virtualization Stack
+>app-emulation/spice-0.10.1
+>app-emulation/spice-protocol-0.10.1
+>net-misc/spice-gtk-0.7.159
+>app-emulation/qemu-kvm-1.0.1
+>app-emulation/virt-manager-0.9.1
+>app-emulation/libvirt-0.9.12
