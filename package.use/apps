@@ -10,12 +10,6 @@ media-libs/libgphoto2 exif
 net-misc/unison threads
 dev-ml/lablgtk -gnome
 
-# Virtualization
-app-emulation/libvirt lvm pcap python qemu virt-network -lxc
-app-emulation/qemu-kvm opengl python spice
-dev-games/cegui opengl
-app-misc/hivex perl python
-
 # Banshee
 net-libs/webkit-gtk spell
 media-sound/banshee ipod -cdda
@@ -37,12 +31,6 @@ media-video/ffmpeg mp3 sdl threads truetype x264
 # XSane
 media-gfx/xsane gimp ocr
 
-# Virt-Manager
-app-emulation/virt-manager spice
-x11-libs/vte python
-net-libs/gtk-vnc python
-net-misc/spice-gtk python -gtk3
-
 # OpenShot (Sabayon)
 media-sound/sox encode ffmpeg
 media-libs/mlt xml ffmpeg python melt frei0r sdl
@@ -59,3 +47,10 @@ app-office/libreoffice gstreamer opengl pdfimport
 
 # Ninja-IDE
 dev-python/PyQt4 webkit
+
+# Audacity
+media-sound/audacity alsa
+
+# GraphViz
+media-libs/gd truetype jpeg png fontconfig
+media-gfx/graphviz python

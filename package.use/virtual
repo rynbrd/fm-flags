@@ -1,0 +1,11 @@
+# Server
+app-emulation/libvirt lvm pcap python qemu virt-network -lxc
+app-emulation/qemu-kvm opengl python spice
+dev-games/cegui opengl
+app-misc/hivex perl python
+
+# Client
+app-emulation/virt-manager spice -policykit
+x11-libs/vte python
+net-libs/gtk-vnc python
+net-misc/spice-gtk python -gtk3
