@@ -1,2 +1,5 @@
 # Web Browsers
 www-plugins/google-talkplugin
+
+# Unison
+=net-misc/unison-2.27.57-r2
