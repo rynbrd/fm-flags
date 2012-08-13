@@ -66,3 +66,6 @@ media-gfx/digikam gphoto2
 
 # OpenLDAP
 net-nds/openldap minimal
+
+# mplayer
+media-video/mplayer faac radio -alsa
