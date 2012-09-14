@@ -1,2 +1,5 @@
 # Python
 dev-lang/python sqlite
+
+# MongoDB
+dev-db/mongodb v8
