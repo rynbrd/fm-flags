@@ -16,7 +16,7 @@ media-sound/banshee ipod -cdda
 media-libs/libgpod mono
 
 # GIMP
-media-gfx/gimp exif jpeg pdf png postscript python smp svg tiff webkit wmf xpm
+media-gfx/gimp exif jpeg mng pdf png postscript python smp svg tiff webkit wmf xpm
 
 # Inkscape
 media-gfx/inkscape dia postscript spell wmf
@@ -69,3 +69,6 @@ net-nds/openldap minimal
 
 # mplayer
 media-video/mplayer faac radio -alsa
+
+# Misc
+media-gfx/imagemagick jpeg png
