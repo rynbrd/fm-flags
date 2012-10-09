@@ -107,7 +107,7 @@
 =dev-libs/totem-pl-parser-3.4.2
 =dev-lang/vala-0.16.0
 =net-misc/vino-3.4.2
-=x11-libs/vte-0.32.1
+=x11-libs/vte-0.32.2
 =gnome-extra/yelp-3.4.2
 =app-text/yelp-tools-3.4.1
 =gnome-extra/yelp-xsl-3.4.2
