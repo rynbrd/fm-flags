@@ -30,6 +30,7 @@ media-video/ffmpeg mp3 sdl threads truetype x264
 
 # XSane
 media-gfx/xsane gimp ocr
+media-gfx/sane-backends threads
 
 # OpenShot (Sabayon)
 media-sound/sox encode ffmpeg
@@ -69,6 +70,10 @@ net-nds/openldap minimal
 
 # mplayer
 media-video/mplayer faac radio -alsa
+
+# Wine
+dev-libs/elfutils static-libs
+app-emulation/wine mp3 png samba v4l xcomposite
 
 # Misc
 media-gfx/imagemagick jpeg png
