@@ -62,7 +62,7 @@
 >media-libs/gst-plugins-base-0.10.35
 >media-libs/gst-plugins-good-0.10.30
 >media-libs/gstreamer-0.10.35
->x11-libs/gtk+-3.4.3
+>x11-libs/gtk+-3.4.4
 >dev-util/gtk-doc-1.18
 >dev-cpp/gtkmm-3.4.0
 >x11-libs/gtksourceview-3.4.2
