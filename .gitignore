@@ -1,4 +1,5 @@
 /bin/
 /postsync.d/
 /savedconfig/
+/make.conf
 /make.profile
