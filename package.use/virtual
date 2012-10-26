@@ -1,6 +1,6 @@
 # Server
 app-emulation/libvirt lvm pcap python qemu virt-network -lxc
-app-emulation/qemu-kvm opengl python spice
+app-emulation/qemu opengl python spice
 dev-games/cegui opengl xml
 app-misc/hivex perl python
 
