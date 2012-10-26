@@ -1,6 +1,5 @@
 # Video Acceleration
 =app-admin/eselect-opengl-1.2.6.1
 =x11-proto/glproto-9999
-=x11-libs/libdrm-9999
 =media-libs/mesa-9999
 =x11-drivers/xf86-video-nouveau-9999
