@@ -73,7 +73,10 @@ media-video/mplayer faac radio -alsa
 
 # Wine
 dev-libs/elfutils static-libs
-app-emulation/wine gnutls jpeg mp3 png samba v4l xcomposite xml
+app-emulation/wine gnutls jpeg mp3 openal png samba v4l xcomposite xml
+
+# OpenRA
+games-strategy/openra cg
 
 # Misc
 media-gfx/imagemagick jpeg png
