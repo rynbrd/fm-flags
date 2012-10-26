@@ -1,0 +1,31 @@
+#!/bin/bash
+HERE="$(readlink -f "$(dirname "$0")")"
+HOOK="${HERE}/.git/hooks/post-merge"
+
+cat > "$HOOK" <<EOF
+#!/bin/bash
+HERE="\$(readlink -f "\$(dirname "\$0")")"
+BASE="\$(readlink -f "\${HERE}/../..")"
+HOST="\$(hostname)"
+
+pushd "\$BASE" &> /dev/null
+if [ -e "make.conf.\${HOST}" ]; then
+	ln -sf "make.conf.\${HOST}" make.conf
+	if [ \$? -eq 0 ]; then
+		echo "Linked make.conf to make.conf.\${HOST}."
+	else
+		echo "Failed to link make.conf to make.conf.\${HOST}."
+	fi
+else
+	echo "No make.conf for host \${HOST}."
+fi
+popd &> /dev/null
+EOF
+
+test $? -eq 0 && chmod 755 "$HOOK"
+
+if [ $? -eq 0 ]; then
+	echo "Git hooks installed."
+else
+	echo "Failed to install git hooks."
+fi
