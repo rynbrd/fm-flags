@@ -1,0 +1,22 @@
+CFLAGS="-march=k8 -O2 -pipe"
+CXXFLAGS="${CFLAGS}"
+CHOST="x86_64-pc-linux-gnu"
+MAKEOPTS="-j5"
+
+USE="bash-completion consolekit dbus drm gallium gnome gnome-keyring gtk gtk3 libkms libnotify modesetting nautilus networkmanager pam policykit pulseaudio udev udisks vim-syntax X xinerama -bluetooth -zeroconf"
+
+#GENTOO_MIRRORS="http://mirror.mcs.anl.gov/pub/gentoo/"
+ACCEPT_KEYWORDS="~amd64"
+ACCEPT_LICENSE="*"
+
+CAMERAS=""
+VIDEO_CARDS="nouveau"
+INPUT_DEVICES="evdev"
+GRUB_PLATFORMS="coreboot multiboot pc"
+
+QEMU_SOFTMMU_TARGETS="i386 x86_64"
+QEMU_USER_TARGETS="i386 x86_64"
+
+source /var/lib/layman/make.conf
+source /usr/local/portage/make.conf
+
