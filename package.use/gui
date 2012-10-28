@@ -19,3 +19,7 @@ media-plugins/gst-plugins-meta aac ffmpeg flac http lame libvisual mp3 mpeg ogg 
 
 # QT/KDE
 x11-libs/qt-gui gtkstyle
+
+# Awesome WM
+media-libs/imlib2 png
+x11-libs/cairo xcb
