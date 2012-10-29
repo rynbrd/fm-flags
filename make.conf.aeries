@@ -3,7 +3,7 @@ CXXFLAGS="${CFLAGS}"
 CHOST="x86_64-pc-linux-gnu"
 MAKEOPTS="-j5"
 
-USE="bash-completion consolekit dbus drm gallium gnome gnome-keyring gtk gtk3 libkms libnotify modesetting nautilus networkmanager pam policykit pulseaudio udev udisks vim-syntax X xinerama -bluetooth -zeroconf"
+USE="bash-completion consolekit dbus drm gallium gnome gnome-keyring gtk gtk3 libkms libnotify modesetting nautilus networkmanager pam policykit pulseaudio udev udisks vim-syntax X xft xinerama -bluetooth -zeroconf"
 
 #GENTOO_MIRRORS="http://mirror.mcs.anl.gov/pub/gentoo/"
 ACCEPT_KEYWORDS="~amd64"

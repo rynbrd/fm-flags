@@ -3,7 +3,7 @@ CXXFLAGS="${CFLAGS}"
 CHOST="x86_64-pc-linux-gnu"
 MAKEOPTS="-j9"
 
-USE="bash-completion bluetooth consolekit dbus drm gallium gnome gnome-keyring gtk gtk3 libkms libnotify modesetting nautilus networkmanager pam policykit pulseaudio udev udisks vim-syntax X xinerama -cdr"
+USE="bash-completion bluetooth consolekit dbus drm gallium gnome gnome-keyring gtk gtk3 libkms libnotify modesetting nautilus networkmanager pam policykit pulseaudio udev udisks vim-syntax X xft xinerama -cdr"
 
 FEATURES="splitdebug"
 #GENTOO_MIRRORS="http://mirror.mcs.anl.gov/pub/gentoo/"
@@ -11,7 +11,7 @@ ACCEPT_KEYWORDS="~amd64"
 ACCEPT_LICENSE="*"
 
 CAMERAS=""
-VIDEO_CARDS="i915 nouveau"
+VIDEO_CARDS="intel nouveau"
 INPUT_DEVICES="evdev"
 GRUB_PLATFORMS="coreboot efi-64 multiboot pc"
 PYTHON_TARGETS="python2_7 python3_2"
