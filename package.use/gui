@@ -22,3 +22,4 @@ x11-libs/qt-gui gtkstyle
 
 # i3wm
 media-libs/imlib2 png jpeg
+x11-libs/cairo xcb
