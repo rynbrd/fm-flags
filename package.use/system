@@ -15,3 +15,6 @@ sys-power/cpufreqd acpi lm_sensors pmu
 
 # Virtualization
 app-emulation/libvirt -policykit
+
+# Bluetooth
+net-wireless/bluez test-programs
