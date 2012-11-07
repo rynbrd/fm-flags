@@ -6,3 +6,6 @@ dev-lang/python sqlite
 
 # MongoDB
 dev-db/mongodb v8
+
+# Android
+dev-java/swt cairo
