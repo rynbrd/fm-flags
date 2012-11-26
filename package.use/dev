@@ -9,3 +9,6 @@ dev-db/mongodb v8
 
 # Android
 dev-java/swt cairo
+
+#Vim
+app-editors/vim ruby python vim-pager
