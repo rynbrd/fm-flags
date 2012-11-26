@@ -17,4 +17,4 @@ sys-power/cpufreqd acpi lm_sensors pmu
 app-emulation/libvirt -policykit
 
 # Bluetooth
-net-wireless/bluez test-programs
+net-wireless/bluez alsa test-programs usb
