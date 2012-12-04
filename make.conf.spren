@@ -1,0 +1,16 @@
+CFLAGS="-march=core2 -O2 -pipe"
+CXXFLAGS="${CFLAGS}"
+CHOST="x86_64-pc-linux-gnu"
+MAKEOPTS="-j3"
+
+USE="bash-completion bluetooth consolekit dbus drm gallium gnome-keyring gtk gtk3 libkms libnotify modesetting networkmanager pam policykit pulseaudio udev udisks vim-syntax X xft -cdr -eds"
+
+ACCEPT_KEYWORDS="~amd64"
+ACCEPT_LICENSE="*"
+
+VIDEO_CARDS="nouveau"
+INPUT_DEVICES="evdev"
+GRUB_PLATFORMS="coreboot efi-64 multiboot pc"
+
+source /var/lib/layman/make.conf
+source /usr/local/portage/make.conf
