@@ -16,5 +16,8 @@ sys-power/cpufreqd acpi lm_sensors pmu
 # Virtualization
 app-emulation/libvirt -policykit
 
+# Sound
+media-sound/pulseaudio udev
+
 # Bluetooth
 net-wireless/bluez alsa test-programs usb
