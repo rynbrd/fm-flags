@@ -6,6 +6,7 @@ sys-devel/gcc -gtk
 
 # Device Discovery
 sys-fs/udev gudev hwdb
+virtual/udev gudev hwdb
 
 # Package Management
 app-portage/layman git
