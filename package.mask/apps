@@ -2,5 +2,5 @@
 >net-misc/unison-2.27.57-r1
 
 # Mongo
->=dev-libs/boost-1.50.0
+>=dev-libs/boost-1.52.0-r5
 >=sys-libs/glibc-2.16
