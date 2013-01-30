@@ -9,7 +9,7 @@ sys-fs/udev gudev hwdb
 virtual/udev gudev hwdb
 
 # Package Management
-app-portage/layman git
+app-portage/layman git subversion
 
 # Power Management
 sys-power/cpufreqd acpi lm_sensors pmu
