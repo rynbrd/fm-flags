@@ -76,5 +76,8 @@ games-strategy/openra cg
 # KeePass
 dev-dotnet/libgdiplus cairo
 
+# irssi/bitlbee
+net-im/bitlbee twitter
+
 # Misc
 media-gfx/imagemagick jpeg png
