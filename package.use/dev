@@ -12,3 +12,6 @@ dev-java/swt cairo
 
 # Vim
 app-editors/vim ruby python vim-pager
+
+# Ant
+dev-java/ant -antlr -bcel -bsf -commonslogging -commonsnet -javamail -jdepend -jsch -log4j -oro -regexp -resolver
