@@ -52,11 +52,11 @@ media-libs/gd truetype jpeg png fontconfig
 media-gfx/graphviz python
 
 # Digikam
-x11-libs/qt-core qt3support
-x11-libs/qt-gui qt3support
-x11-libs/qt-sql qt3support ssl
-x11-libs/qt-declarative qt3support
-x11-libs/qt-opengl qt3support
+dev-qt/qtcore qt3support
+dev-qt/qtgui qt3support
+dev-qt/qtsql qt3support ssl
+dev-qt/qtdeclarative qt3support
+dev-qt/qtopengl qt3support
 kde-base/marble plasma
 media-gfx/digikam gphoto2
 

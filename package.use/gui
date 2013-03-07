@@ -18,7 +18,7 @@ media-libs/libcanberra alsa
 media-plugins/gst-plugins-meta aac ffmpeg flac http lame libvisual mp3 mpeg ogg taglib theora v4l vorbis
 
 # QT/KDE
-x11-libs/qt-gui gtkstyle
+dev-qt/qtgui gtkstyle
 
 # i3wm
 media-libs/imlib2 png jpeg
