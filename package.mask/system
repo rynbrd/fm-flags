@@ -3,3 +3,6 @@
 
 # Java
 >=dev-java/java-config-2.2
+
+# Genkernel
+>=app-misc/pax-utils-0.6
