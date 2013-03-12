@@ -1,2 +1,5 @@
 # Toolchain
 >sys-devel/bison-2.4.3
+
+# Java
+>=dev-java/java-config-2.2
