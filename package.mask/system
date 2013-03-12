@@ -6,3 +6,6 @@
 
 # Genkernel
 >=app-misc/pax-utils-0.6
+
+# Pulse Audio
+>=media-sound/pulseaudio-3.0
