@@ -1,9 +1,5 @@
-# Digikam
->=kde-base/libkdcraw-4.10.0
-
 # Unison
 >net-misc/unison-2.27.57-r1
 
 # Mongo
->=dev-libs/boost-1.52.0-r5
 >=sys-libs/glibc-2.16
