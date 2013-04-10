@@ -1,5 +1,5 @@
 # Nginx
-www-servers/nginx nginx_modules_http_substitutions_filter
+www-servers/nginx nginx_modules_http_substitutions_filter nginx_modules_http_upload
 
 # Freeradius
 net-dialup/freeradius python
