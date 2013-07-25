@@ -27,7 +27,7 @@ media-video/ffmpeg mp3 sdl threads truetype x264
 media-gfx/xsane gimp ocr
 media-gfx/sane-backends threads
 
-# OpenShot (Sabayon)
+# OpenShot
 media-sound/sox encode ffmpeg
 media-libs/mlt xml ffmpeg python melt frei0r sdl
 media-libs/libsdl opengl
