@@ -3,6 +3,3 @@
 
 # Mongo
 >=sys-libs/glibc-2.16
-
-# LibreOffice
->=dev-libs/icu-50.0
