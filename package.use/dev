@@ -3,6 +3,7 @@ dev-vcs/git highlight
 
 # Python
 dev-lang/python sqlite
+dev-python/pyyaml libyaml
 
 # MongoDB
 dev-db/mongodb v8
