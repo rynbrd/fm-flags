@@ -79,6 +79,9 @@ games-strategy/openra cg
 # KeePass
 dev-dotnet/libgdiplus cairo
 
+# Wireshark
+net-analyzer/wireshark grk -qt4
+
 # irssi/bitlbee
 net-im/bitlbee twitter
 
