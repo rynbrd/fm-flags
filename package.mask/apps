@@ -3,3 +3,10 @@
 
 # Mongo
 >=sys-libs/glibc-2.16
+
+# Webkit
+=net-libs/webkit-gtk-1.8.3-r201
+>net-libs/webkit-gtk-2.0.4
+
+# Gimp
+=media-gfx/gimp-2.8.6

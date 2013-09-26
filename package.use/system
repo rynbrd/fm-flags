@@ -23,3 +23,6 @@ media-sound/pulseaudio udev
 # Bluetooth
 net-wireless/bluez alsa test-programs usb
 gnome-extra/nm-applet -bluetooth
+
+# Printing
+net-print/cups -usb
