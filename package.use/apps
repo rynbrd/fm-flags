@@ -57,6 +57,7 @@ dev-qt/qtopengl qt3support
 kde-base/marble plasma
 media-gfx/digikam gphoto2
 kde-base/kdelibs semantic-desktop
+media-gfx/exiv2 xmp
 
 # OpenLDAP
 net-nds/openldap minimal
