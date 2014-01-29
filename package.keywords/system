@@ -1,2 +1,5 @@
 # Filesystems
 sys-fs/hfsplusutils **
+
+# Audio
+=media-sound/pulseaudio-9999 **
