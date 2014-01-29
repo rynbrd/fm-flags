@@ -18,7 +18,7 @@ sys-power/cpufreqd acpi lm_sensors pmu
 app-emulation/libvirt -policykit
 
 # Sound
-media-sound/pulseaudio avahi udev
+media-sound/pulseaudio avahi gnome udev
 
 # Bluetooth
 net-wireless/bluez alsa test-programs usb
