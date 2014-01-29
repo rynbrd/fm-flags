@@ -26,3 +26,6 @@ gnome-extra/nm-applet -bluetooth
 
 # Printing
 net-print/cups -usb
+
+# Docker
+sys-fs/aufs3 kernel-patch
