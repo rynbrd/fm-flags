@@ -1,6 +1,7 @@
 # Xorg
 dev-libs/libxml2 python
 x11-libs/libdrm video_cards_intel
+media-libs/mesa gbm
 
 # Gnome
 x11-libs/gdk-pixbuf jpeg
