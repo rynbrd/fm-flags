@@ -1,0 +1,23 @@
+CFLAGS="-O2 -pipe"
+CXXFLAGS="${CFLAGS}"
+CHOST="x86_64-pc-linux-gnu"
+MAKEOPTS="-j5"
+
+USE="bash-completion bluetooth consolekit dbus drm gallium gtk gtk3 libkms libnotify modesetting networkmanager offensive pam policykit pulseaudio udev udisks vim-syntax X xft -cdr -eds"
+
+PORTDIR="/usr/portage"
+DISTDIR="${PORTDIR}/distfiles"
+PKGDIR="${PORTDIR}/packages"
+
+GENTOO_MIRRORS="http://gentoo.mirrors.easynews.com/linux/gentoo/ http://mirror.usu.edu/mirrors/gentoo/"
+SYNC="rsync://rsync.us.gentoo.org/gentoo-portage"
+
+ACCEPT_KEYWORDS="~amd64"
+ACCEPT_LICENSE="*"
+
+VIDEO_CARDS="radeon"
+INPUT_DEVICES="evdev"
+
+RUBY_TARGETS="ruby21"
+
+source /var/lib/layman/make.conf
