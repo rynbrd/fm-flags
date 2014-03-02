@@ -22,3 +22,10 @@ x11-libs/cairo xcb
 
 # urxvt
 x11-terms/rxvt-unicode 256-color blink buffer-on-clear pixbuf secondary-wheel wcwidth -vanilla
+
+# XBMC
+media-libs/sdl-image gif png jpeg
+media-tv/xbmc airplay avahi bluray goom joystick nfs vdpau webserver
+media-video/ffmpeg vdpau
+net-libs/libmicrohttpd messages
+virtual/ffmpeg vdpau
