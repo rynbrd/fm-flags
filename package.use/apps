@@ -72,7 +72,6 @@ media-video/mplayer faac radio -alsa
 dev-libs/elfutils static-libs
 net-fs/cifs-utils acl upcall
 sys-libs/talloc python
-net-fs/samba winbind
 app-emulation/wine gnutls jpeg mp3 openal png samba v4l xcomposite xml
 
 # OpenRA
@@ -80,6 +79,9 @@ games-strategy/openra cg
 
 # KeePass
 dev-dotnet/libgdiplus cairo
+
+# Samba
+net-fs/samba avahi syslog winbind
 
 # Wireshark
 net-analyzer/wireshark grk -qt4 -gtk2

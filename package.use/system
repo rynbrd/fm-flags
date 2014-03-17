@@ -10,6 +10,9 @@ app-portage/layman git subversion
 # Power Management
 sys-power/cpufreqd acpi lm_sensors pmu
 
+# NFS
+net-fs/nfs-utils nfsdcld nfsv41
+
 # Virtualization
 app-emulation/libvirt -policykit
 
