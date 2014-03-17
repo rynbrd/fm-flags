@@ -3,7 +3,7 @@ CXXFLAGS="${CFLAGS}"
 CHOST="x86_64-pc-linux-gnu"
 MAKEOPTS="-j5"
 
-USE="bash-completion bluetooth consolekit dbus drm gallium gtk gtk3 libkms libnotify modesetting networkmanager offensive pam policykit pulseaudio udev udisks vim-syntax X xft -cdr -eds"
+USE="bash-completion bluetooth consolekit cups dbus drm gallium gtk gtk3 libkms libnotify modesetting networkmanager offensive pam policykit pulseaudio udev udisks vim-syntax X xft -cdr -eds"
 
 PORTDIR="/usr/portage"
 DISTDIR="${PORTDIR}/distfiles"
