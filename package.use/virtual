@@ -10,3 +10,6 @@ app-emulation/virt-manager spice -policykit
 x11-libs/vte python
 net-libs/gtk-vnc python
 net-misc/spice-gtk python
+
+# Docker
+app-emulation/docker aufs
