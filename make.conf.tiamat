@@ -1,0 +1,20 @@
+CFLAGS="-march=atom -O2 -pipe"
+CXXFLAGS="${CFLAGS}"
+CHOST="x86_64-pc-linux-gnu"
+MAKEOPTS="-j5"
+
+USE="bash-completion dbus libkms gudev offensive pam policykit udev udisks vim-syntax -X"
+
+FEATURES=""
+ACCEPT_KEYWORDS="~amd64"
+ACCEPT_LICENSE="*"
+
+VIDEO_CARDS="nouveau"
+INPUT_DEVICES="evdev"
+RUBY_TARGETS="ruby18 ruby19 ruby20 ruby21"
+
+PORTDIR="/usr/portage"
+DISTDIR="${PORTDIR}/distfiles"
+PKGDIR="${PORTDIR}/packages"
+
+GENTOO_MIRRORS="http://gentoo.mirrors.hoobly.com/"
