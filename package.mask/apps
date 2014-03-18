@@ -1,9 +1,0 @@
-# Unison
->net-misc/unison-2.27.57-r1
-
-# Webkit
-=net-libs/webkit-gtk-1.8.3-r201
->net-libs/webkit-gtk-2.0.4
-
-# Gimp
-=media-gfx/gimp-2.8.6
