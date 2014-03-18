@@ -1,15 +1,6 @@
 # Shotwell
 media-libs/libgphoto2 exif
 
-# Unison
-net-misc/unison threads
-dev-ml/lablgtk -gnome
-
-# Banshee
-net-libs/webkit-gtk spell
-media-sound/banshee ipod -cdda
-media-libs/libgpod mono
-
 # GIMP
 media-gfx/gimp exif jpeg mng pdf png postscript python smp svg tiff webkit wmf xpm
 
@@ -32,21 +23,8 @@ media-sound/sox encode ffmpeg
 media-libs/mlt xml ffmpeg python melt frei0r sdl
 media-libs/libsdl opengl
 
-# Glade
-dev-util/glade python
-
-# X-Chat
-net-irc/xchat hires-icons spell
-
-# Ninja-IDE
-dev-python/PyQt4 webkit
-
 # Audacity
 media-sound/audacity alsa
-
-# GraphViz
-media-libs/gd truetype jpeg png fontconfig
-media-gfx/graphviz python
 
 # Digikam
 dev-qt/qtcore qt3support
@@ -76,9 +54,6 @@ app-emulation/wine gnutls jpeg mp3 openal png samba v4l xcomposite xml
 
 # OpenRA
 games-strategy/openra cg
-
-# KeePass
-dev-dotnet/libgdiplus cairo
 
 # Samba
 net-fs/samba avahi syslog winbind

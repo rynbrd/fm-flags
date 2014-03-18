@@ -3,6 +3,3 @@ www-servers/nginx nginx_modules_http_substitutions_filter nginx_modules_http_upl
 
 # Freeradius
 net-dialup/freeradius python
-
-# OpenLDAP
-net-nds/openldap minimal
