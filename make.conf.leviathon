@@ -6,7 +6,6 @@ MAKEOPTS="-j9"
 USE="bash-completion bluetooth consolekit dbus drm gallium gtk gtk3 libkms libnotify modesetting networkmanager offensive pam policykit pulseaudio udev udisks vim-syntax X xft -cdr -eds"
 
 FEATURES="splitdebug"
-#GENTOO_MIRRORS="http://mirror.mcs.anl.gov/pub/gentoo/"
 ACCEPT_KEYWORDS="~amd64"
 ACCEPT_LICENSE="*"
 
@@ -16,6 +15,9 @@ INPUT_DEVICES="evdev"
 GRUB_PLATFORMS="coreboot efi-64 multiboot pc"
 PYTHON_TARGETS="python2_7 python3_2"
 RUBY_TARGETS="ruby18 ruby19 ruby20"
+
+GENTOO_MIRRORS="http://gentoo.mirrors.hoobly.com/"
+SYNC="rsync://rsync.us.gentoo.org/gentoo-portage"
 
 QEMU_SOFTMMU_TARGETS="i386 x86_64"
 QEMU_USER_TARGETS="i386 x86_64"
