@@ -13,9 +13,6 @@ sys-power/cpufreqd acpi lm_sensors pmu
 # NFS
 net-fs/nfs-utils nfsdcld nfsv41
 
-# Virtualization
-app-emulation/libvirt -policykit
-
 # Sound
 media-sound/pulseaudio avahi gnome udev
 
