@@ -1,0 +1,22 @@
+CFLAGS="-march=atom -O2 -pipe"
+CXXFLAGS="${CFLAGS}"
+CHOST="x86_64-pc-linux-gnu"
+MAKEOPTS="-j2"
+
+USE="bash-completion bluetooth consolekit dbus drm gallium gtk gtk3 libkms libnotify modesetting networkmanager offensive pam policykit pulseaudio udev udisks vim-syntax X xft -cdr -eds"
+
+FEATURES="splitdebug"
+ACCEPT_KEYWORDS="~amd64"
+ACCEPT_LICENSE="*"
+
+CAMERAS=""
+VIDEO_CARDS="gma3600"
+INPUT_DEVICES="evdev"
+PYTHON_TARGETS="python2_7 python3_2"
+RUBY_TARGETS="ruby18 ruby19 ruby20"
+
+GENTOO_MIRRORS="http://gentoo.mirrors.hoobly.com/"
+SYNC="rsync://rsync.us.gentoo.org/gentoo-portage"
+
+#source /var/lib/layman/make.conf
+#source /usr/local/portage/make.conf
