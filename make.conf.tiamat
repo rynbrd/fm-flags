@@ -11,10 +11,11 @@ ACCEPT_LICENSE="*"
 
 VIDEO_CARDS="nouveau"
 INPUT_DEVICES="evdev"
-RUBY_TARGETS="ruby18 ruby19 ruby20 ruby21"
+RUBY_TARGETS="ruby21"
 
 PORTDIR="/usr/portage"
 DISTDIR="${PORTDIR}/distfiles"
 PKGDIR="${PORTDIR}/packages"
 
 GENTOO_MIRRORS="http://gentoo.mirrors.hoobly.com/"
+SYNC="rsync://rsync.us.gentoo.org/gentoo-portage"
