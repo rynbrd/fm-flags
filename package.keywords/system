@@ -3,6 +3,3 @@ sys-fs/hfsplusutils **
 sys-fs/zfs **
 sys-fs/zfs-kmod **
 sys-kernel/spl **
-
-# Audio
-=media-sound/pulseaudio-9999 **
