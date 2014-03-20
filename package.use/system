@@ -13,6 +13,9 @@ sys-power/cpufreqd acpi lm_sensors pmu
 # NFS
 net-fs/nfs-utils nfsdcld nfsv41
 
+# nscd
+sys-libs/glibc nscd
+
 # Sound
 media-sound/pulseaudio avahi gnome udev
 
