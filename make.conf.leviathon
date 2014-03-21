@@ -17,6 +17,7 @@ CAMERAS=""
 VIDEO_CARDS="intel nouveau"
 INPUT_DEVICES="evdev"
 GRUB_PLATFORMS="coreboot efi-64 multiboot pc"
+
 PYTHON_TARGETS="python2_7 python3_2"
 RUBY_TARGETS="ruby18 ruby19 ruby20"
 
@@ -28,4 +29,3 @@ QEMU_USER_TARGETS="i386 x86_64"
 
 source /var/lib/layman/make.conf
 source /usr/local/portage/make.conf
-
