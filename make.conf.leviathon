@@ -3,7 +3,7 @@ CXXFLAGS="${CFLAGS}"
 CHOST="x86_64-pc-linux-gnu"
 MAKEOPTS="-j9"
 
-USE="bash-completion bluetooth consolekit dbus drm gallium gtk gtk3 libkms libnotify modesetting networkmanager offensive pam policykit pulseaudio udev udisks vim-syntax X xft -cdr -eds"
+USE="avahi bash-completion bluetooth consolekit dbus drm gallium gtk gtk3 laptop libkms libnotify modesetting networkmanager offensive pam policykit pulseaudio udev udisks vim-syntax X wifi xft -cdr -eds"
 
 PORTDIR="/usr/portage"
 DISTDIR="${PORTDIR}/distfiles"
@@ -19,7 +19,7 @@ INPUT_DEVICES="evdev"
 GRUB_PLATFORMS="coreboot efi-64 multiboot pc"
 
 PYTHON_TARGETS="python2_7 python3_2"
-RUBY_TARGETS="ruby18 ruby19 ruby20 ruby21"
+RUBY_TARGETS="ruby19 ruby20 ruby21"
 
 GENTOO_MIRRORS="http://gentoo.mirrors.hoobly.com/"
 SYNC="rsync://rsync.us.gentoo.org/gentoo-portage"
