@@ -51,8 +51,6 @@ dev-libs/elfutils static-libs
 net-fs/cifs-utils acl upcall
 sys-libs/talloc python
 net-fs/samba winbind
-sys-libs/zlib abi_x86_32
-media-libs/libpng abi_x86_32
 app-emulation/wine abi_x86_32 gnutls mp3 openal png samba v4l xcomposite xml -jpeg
 
 # OpenRA
