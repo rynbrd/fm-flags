@@ -70,3 +70,6 @@ net-im/bitlbee twitter
 
 # Misc
 media-gfx/imagemagick jpeg png
+
+# hping
+net-analyzer/hping tcl
