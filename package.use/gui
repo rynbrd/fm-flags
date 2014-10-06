@@ -21,7 +21,7 @@ media-libs/imlib2 png jpeg
 x11-libs/cairo xcb
 
 # urxvt
-x11-terms/rxvt-unicode 256-color blink buffer-on-clear pixbuf secondary-wheel wcwidth -vanilla
+x11-terms/rxvt-unicode 256-color blink buffer-on-clear pixbuf secondary-wheel unicode3 wcwidth -vanilla
 
 # XBMC
 media-libs/sdl-image gif png jpeg
