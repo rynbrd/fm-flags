@@ -14,7 +14,7 @@ ACCEPT_KEYWORDS="~amd64"
 ACCEPT_LICENSE="*"
 
 CAMERAS=""
-VIDEO_CARDS="intel nouveau"
+VIDEO_CARDS="nouveau"
 INPUT_DEVICES="evdev"
 GRUB_PLATFORMS="coreboot efi-64 multiboot pc"
 
