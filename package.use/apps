@@ -32,7 +32,7 @@ dev-qt/qtgui qt3support
 dev-qt/qtsql qt3support ssl
 dev-qt/qtdeclarative qt3support
 dev-qt/qtopengl qt3support
-kde-base/marble plasma
+kde-apps/marble plasma
 media-gfx/digikam gphoto2
 kde-base/kdelibs semantic-desktop -udisks -upower
 media-gfx/exiv2 xmp
