@@ -31,6 +31,7 @@ sys-fs/aufs3 kernel-patch
 
 # Network
 net-dns/avahi autoipd
+dev-libs/nss utils
 
 # Perl
 dev-lang/perl -build
