@@ -22,7 +22,6 @@ PYTHON_TARGETS="python2_7 python3_2"
 RUBY_TARGETS="ruby19 ruby20 ruby21"
 
 GENTOO_MIRRORS="http://gentoo.mirrors.hoobly.com/"
-SYNC="rsync://rsync.us.gentoo.org/gentoo-portage"
 
 QEMU_SOFTMMU_TARGETS="i386 x86_64"
 QEMU_USER_TARGETS="i386 x86_64"

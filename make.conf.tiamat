@@ -18,4 +18,3 @@ DISTDIR="${PORTDIR}/distfiles"
 PKGDIR="${PORTDIR}/packages"
 
 GENTOO_MIRRORS="http://gentoo.mirrors.hoobly.com/"
-SYNC="rsync://rsync.us.gentoo.org/gentoo-portage"
