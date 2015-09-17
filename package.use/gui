@@ -6,6 +6,7 @@ media-libs/mesa gbm
 
 # Gnome
 x11-libs/gdk-pixbuf jpeg
+app-crypt/pinentry gnome-keyring
 app-text/poppler cairo
 app-misc/geoclue hostip manual
 gnome-base/gvfs archive fuse gdu gphoto2 samba
