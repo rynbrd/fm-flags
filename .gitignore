@@ -1,6 +1,8 @@
+*.sw?
 /bin/
-/postsync.d/
-/savedconfig/
 /make.conf
 /make.conf.catalyst
 /make.profile
+/postsync.d/
+/repo.postsync.d/
+/savedconfig/
