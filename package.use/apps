@@ -75,5 +75,11 @@ media-gfx/imagemagick jpeg png
 # hping
 net-analyzer/hping tcl
 
+# Shutter
+media-gfx/imagemagick perl
+
+# GraphViz
+media-libs/gd fontconfig
+
 # Java
 dev-java/icedtea-bin webstart
