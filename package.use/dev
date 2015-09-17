@@ -1,3 +1,6 @@
+# GCC
+sys-devel/gcc go
+
 # Git
 dev-vcs/git highlight
 
