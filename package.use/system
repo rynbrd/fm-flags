@@ -17,7 +17,7 @@ net-fs/nfs-utils nfsdcld nfsv41
 sys-libs/glibc nscd
 
 # Sound
-media-sound/pulseaudio avahi gnome udev
+media-sound/pulseaudio gnome udev -avahi
 
 # Bluetooth
 net-wireless/bluez alsa test-programs usb
