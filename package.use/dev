@@ -5,6 +5,7 @@ dev-vcs/git highlight
 dev-lang/python sqlite
 dev-python/pyyaml libyaml
 dev-python/ipython notebook -qt4 -wxwidgets
+dev-python/PyQt4 webkit
 
 # MongoDB
 dev-db/mongodb v8
