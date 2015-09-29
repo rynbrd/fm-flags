@@ -1,0 +1,4 @@
+media-video/ffmpeg mp3 sdl threads truetype x264
+media-video/vlc bluray dvd flac matroska mp3 mpeg ogg opengl qt4 shout vdpau vorbis
+sys-libs/zlib abi_x86_32 minizip
+virtual/ffmpeg sdl threads truetype x264

@@ -1,0 +1,4 @@
+dev-lang/python sqlite
+dev-python/PyQt4 webkit
+dev-python/ipython notebook -qt4 -wxwidgets
+dev-python/pyyaml libyaml

@@ -1,0 +1,2 @@
+net-wireless/bluez alsa test-programs usb
+gnome-extra/nm-applet -bluetooth

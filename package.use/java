@@ -1,0 +1,3 @@
+dev-java/ant -antlr -bcel -bsf -commonslogging -commonsnet -javamail -jdepend -jsch -log4j -oro -regexp -resolver
+dev-java/bcel findbugs
+dev-java/icedtea-bin webstart

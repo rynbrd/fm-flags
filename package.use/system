@@ -1,37 +1,4 @@
-# Bootloader
-sys-boot/grub device-mapper truetype
-
-# Compilers
-sys-devel/gcc -gtk
-
-# Package Management
-app-portage/layman git subversion
-
-# Power Management
-sys-power/cpufreqd acpi lm_sensors pmu
-
-# NFS
 net-fs/nfs-utils nfsdcld nfsv41
-
-# nscd
+sys-boot/grub device-mapper truetype
 sys-libs/glibc nscd
-
-# Sound
-media-sound/pulseaudio gnome udev -avahi
-
-# Bluetooth
-net-wireless/bluez alsa test-programs usb
-gnome-extra/nm-applet -bluetooth
-
-# Printing
-net-print/cups -usb
-
-# Docker
-sys-fs/aufs3 kernel-patch
-
-# Network
-net-dns/avahi autoipd
-dev-libs/nss utils
-
-# Perl
-dev-lang/perl -build
+sys-power/cpufreqd acpi lm_sensors pmu
