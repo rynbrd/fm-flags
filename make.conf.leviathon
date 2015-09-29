@@ -18,8 +18,8 @@ VIDEO_CARDS="nouveau"
 INPUT_DEVICES="evdev"
 GRUB_PLATFORMS="coreboot efi-64 multiboot pc"
 
-PYTHON_TARGETS="python2_7 python3_2"
-RUBY_TARGETS="ruby19 ruby20 ruby21"
+PYTHON_TARGETS="python2_7 python3_4"
+RUBY_TARGETS="ruby20 ruby21 ruby22"
 
 GENTOO_MIRRORS="http://gentoo.mirrors.hoobly.com/"
 
