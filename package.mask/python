@@ -1,2 +1,4 @@
-# Python Libs
+# libs
+=dev-python/pip-7.1.2
+=dev-python/virtualenv-13.1.2
 =dev-util/scons-2.3.5
