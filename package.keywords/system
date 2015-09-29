@@ -1,5 +1,7 @@
-# Filesystems
-sys-fs/hfsplusutils **
+# zfs
 sys-fs/zfs **
 sys-fs/zfs-kmod **
+
+# hfs
+sys-fs/hfsplusutils **
 sys-kernel/spl **
