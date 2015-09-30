@@ -1,0 +1,5 @@
+media-libs/sdl-image gif png jpeg
+media-tv/xbmc airplay avahi bluray cec goom joystick nfs vdpau webserver
+media-video/ffmpeg vdpau
+net-libs/libmicrohttpd messages
+virtual/ffmpeg vdpau

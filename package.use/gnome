@@ -1,0 +1,9 @@
+app-crypt/pinentry gnome-keyring
+app-misc/geoclue hostip manual
+app-mobilephone/obex-data-server usb
+app-text/poppler cairo
+gnome-base/gvfs archive fuse gdu gphoto2 samba
+media-libs/libcanberra alsa
+media-plugins/gst-plugins-meta aac ffmpeg flac http lame libvisual mp3 mpeg ogg taglib theora v4l vorbis
+net-wireless/bluez gstreamer
+x11-libs/gdk-pixbuf jpeg

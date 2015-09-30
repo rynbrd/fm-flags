@@ -1,0 +1,4 @@
+dev-libs/libxml2 python
+media-libs/mesa gbm
+x11-base/xorg-server glamor
+x11-libs/libdrm video_cards_intel
