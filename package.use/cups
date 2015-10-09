@@ -1,0 +1,4 @@
+# Canon drivers
+dev-libs/libxml2 abi_x86_32
+media-libs/libjpeg-turbo abi_x86_32
+virtual/jpeg abi_x86_32
