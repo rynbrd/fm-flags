@@ -1,7 +1,7 @@
 CFLAGS="-march=corei7 -O2 -pipe"
 CXXFLAGS="${CFLAGS}"
 CHOST="x86_64-pc-linux-gnu"
-MAKEOPTS="-j9"
+MAKEOPTS="-j5"
 
 USE="avahi bash-completion bluetooth dbus drm gallium gtk gtk3 laptop libkms libnotify modesetting networkmanager offensive pam policykit pulseaudio systemd udev udisks vim-syntax X wifi xft -cdr -consolekit -eds"
 
